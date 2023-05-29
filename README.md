@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @williamlapa
-- 👀 I’m interested in Coding
-- 🌱 I’m currently learning Dashboards 
+- 👀 I’m interested in Coding (Python preferred, Ruby and JavaScript)
+- 🌱 I’m currently involved in the Microsoft Carrer Skills Challenge (Devs and Cloud Development)
 
 
 <!---
